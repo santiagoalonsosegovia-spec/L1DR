@@ -1,2 +1,9 @@
 # L1DR
-Repositorio del curso.
+
+Proyecto realizado para el curso.
+
+## Descripción
+Este proyecto contiene ejercicios y prácticas del curso.
+
+## Autor
+Santi Alonso Segovia
